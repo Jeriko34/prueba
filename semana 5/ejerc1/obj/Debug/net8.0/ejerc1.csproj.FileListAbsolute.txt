@@ -1,0 +1,15 @@
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\bin\Debug\net8.0\ejerc1.exe
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\bin\Debug\net8.0\ejerc1.deps.json
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\bin\Debug\net8.0\ejerc1.runtimeconfig.json
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\bin\Debug\net8.0\ejerc1.dll
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\bin\Debug\net8.0\ejerc1.pdb
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.AssemblyInfo.cs
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.sourcelink.json
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.dll
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\refint\ejerc1.dll
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.pdb
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ejerc1.genruntimeconfig.cache
+C:\Users\USER\Downloads\Antesdelexamen\semana 5\ejerc1\obj\Debug\net8.0\ref\ejerc1.dll

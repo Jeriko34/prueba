@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejerc1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b497012325dcda423964b0f461f06d279c1b0a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejerc1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejerc1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
